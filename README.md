@@ -8,3 +8,4 @@
 不足之处：在完成该课程项目时，是第一次使用SpringBoot来开发后端，很多分层傻傻分不清，代码管理较为混乱。
 
 
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
